@@ -20,20 +20,3 @@
           </div>
     </div>
 
-    <div style="text-align: left;">
-        <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-        <div style="text-align: left;"> <a href=https://www.instagram.com/ddoongni/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/ddoongni/"> </a>
-             <a href=https://velog.io/@bsh-ko/posts> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@bsh-ko/posts"> </a>
-             <a href=https://blog.naver.com/qosuhyeon> <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=https://blog.naver.com/qosuhyeon"> </a>
-             <a href=https://www.notion.so/7a365611a3364f1cae4f690c8028c47d> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/7a365611a3364f1cae4f690c8028c47d"> </a>
-             <a href=mailto:ssuh3872@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ssuh3872@gmail.com"> </a>
-              </div>  <br> 
-        <div style="text-align: left;">  </div> 
-    </div>
-    
-    
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsh-ko&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
-           /> </div> 
-    </div>
-    
