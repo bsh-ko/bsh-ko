@@ -1,4 +1,4 @@
-<div align= "center">
+__<div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=Welcome%20to%20Suhyun's%20GitHub%20!&animation=fadeIn&fontColor=ffffff&fontSize=50" />
     </div>
     <div style="text-align: left;">
@@ -39,8 +39,6 @@
           </div>  <br> 
     <div align= "center">  </div> 
     </div>
-    <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center">  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsh-ko&layout=compact&bg_color=60,fff5f5,ffffff&title_color=000000&text_color=000000"
-          /> </div> 
     
 
+_
