@@ -51,6 +51,6 @@
   <br><br>
 
   <h2> 📊 GitHub Stats </h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=bsh-ko&show_icons=true&theme=radical&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsh-ko&layout=compact&theme=radical&hide_border=true" height="180" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=bsh-ko&show_icons=true&theme=radical&hide_border=true" height="180" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bsh-ko&layout=compact&theme=radical&hide_border=true" height="180" />
 </div>
