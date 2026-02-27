@@ -1,10 +1,10 @@
 <div align="left">
-  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=bsh-ko&utm_content=farm">
-  <img
-    src="https://render.gitanimals.org/farms/bsh-ko"
-    width="600"
-    height="300"
-  />
+ <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=bsh-ko&utm_content=farm">
+    <img
+      src="https://render.gitanimals.org/farms/bsh-ko?v=1"
+      width="600"
+      height="300"
+    />
   </a>
 
   <br><br>
@@ -41,6 +41,11 @@
   <img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white">
 
   <br>
+  <br>
+
+  <h2> 📊 GitHub Stats </h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=bsh-ko&show_icons=true&theme=radical&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsh-ko&layout=compact&theme=radical&hide_border=true" height="180" />
 
   <h3> 🤝 Tools & Collaboration </h3>
   <img src="https://img.shields.io/badge/bruno-EB7014?style=flat-square&logo=bruno&logoColor=white">
