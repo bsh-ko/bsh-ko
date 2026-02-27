@@ -41,12 +41,6 @@
   <img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white">
 
   <br>
-  <br>
-
-  <h2> 📊 GitHub Stats </h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=bsh-ko&show_icons=true&theme=radical&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsh-ko&layout=compact&theme=radical&hide_border=true" height="180" />
-
   <h3> 🤝 Tools & Collaboration </h3>
   <img src="https://img.shields.io/badge/bruno-EB7014?style=flat-square&logo=bruno&logoColor=white">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white">
@@ -54,4 +48,9 @@
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white">
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white">
+  <br><br>
+
+  <h2> 📊 GitHub Stats </h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=bsh-ko&show_icons=true&theme=radical&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsh-ko&layout=compact&theme=radical&hide_border=true" height="180" />
 </div>
