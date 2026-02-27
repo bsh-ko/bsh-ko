@@ -1,12 +1,6 @@
-
-
-<div align= "center">
+<div align="center">
     <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=bsh-ko&utm_content=farm">
-        <img
-          src="https://render.gitanimals.org/farms/bsh-ko"
-          width="600"
-          height="300"
-        />
+        <img src="https://render.gitanimals.org/farms/bsh-ko" width="600" height="300" />
     </a>
 
     <br>
@@ -49,5 +43,4 @@
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
     <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
- </div>
-    
+</div>
