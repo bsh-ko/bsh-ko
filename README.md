@@ -5,7 +5,7 @@
 
   <br><br>
   
-  <h1> 🛠 수현's Tech Stacks </h1>
+  <h2> Tech Stacks </h1>
   <h3> 🎨 Frontend </h3>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white">
