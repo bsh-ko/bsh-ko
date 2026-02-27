@@ -49,25 +49,7 @@
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white">
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white">
-  <br><br>
-
-  <h2> 💼 Experiences </h2>
-  <ul>
-    <li>PING 보안 동아리 부회장</li>
-    <li>멋쟁이사자처럼 FE(Frontend) 수료</li>
-    <li>UMC 앱/웹 런칭 동아리 8기 Web 파트</li>
-    <li>UMC 앱/웹 런칭 동아리 9기 SpringBoot 파트장</li>
-  </ul>
-
-  <br>
-
-  <h2> 📂 Project Summary </h2>
-  <ul>
-    <li><strong>모아요 (MOAYO)</strong> | 백엔드 파트장으로서 데이터 모델링 및 API 명세 표준화를 주도한 팀 매칭 플랫폼</li>
-    <li><strong>To Sea</strong> | AI 분석과 애니메이션을 결합해 몰입감을 높인 감정 기록 서비스</li>
-    <li><strong>내일 (Tomorrow)</strong> | Kakao Map API와 다단계 폼 로직을 활용해 사용자 경험을 최적화한 구직 매칭 플랫폼</li>
-    <li><strong>오는길에 (On your way here)</strong> | React Query와 Zustand 기반의 인증 시스템을 구축한 P2P 매칭 서비스</li>
-  </ul>
+  
 
   <br><br>
   <h2> 📊 GitHub Stats </h2>
